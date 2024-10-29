@@ -1,0 +1,5 @@
+
+19:51:3 => [error] first log message!
+19:51:3 => [info] /home/ajie-23/cpp/mprpc/example/callee/friendservice.cc:main:45
+19:51:3 => [info] FriendServiceRpc
+19:51:3 => [info] GetFriendLists
